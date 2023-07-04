@@ -2,7 +2,8 @@
 
 ![sakydox](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*Only the left half of an ergodox*
+
 
 * Keyboard Maintainer: [Udith VB](https://github.com/udithvb)
 
